@@ -1,2 +1,2 @@
 # landing-page
-testing git
+first CSS project
